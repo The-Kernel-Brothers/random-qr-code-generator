@@ -1,0 +1,700 @@
+a (indefinite article)
+abandon (verb)
+ability (noun)
+able (adjective)
+about (adjective, adverb, preposition)
+above (adverb, preposition)
+abroad (adverb)
+absence (noun)
+absent (adjective)
+absolute (adjective)
+abstract
+abuse (noun, verb)
+abusive
+academic (adjective)
+accede (verb)
+accept (verb)
+acceptable (adjective)
+acceptance
+access (noun, verb)
+accident (noun)
+accolade (noun)
+accompany (verb)
+accomplish (verb)
+accord (noun)
+according+to (preposition)
+account (noun)
+accountant
+accurate (adjective)
+accuse
+ache
+baby (noun)
+bachelor's degree
+back (verb)
+backboard
+background (noun)
+backhand
+backup (noun)
+backward (adjective, adverb)
+bacterium (noun)
+bad (adjective)
+badly (adverb)
+bag (noun)
+baggage
+bake (verb)
+balance (noun, verb)
+balance (verb)
+ball (noun)
+band (noun)
+bandage
+bane (noun)
+bang (verb)
+bank (noun)
+banker
+bankrupt
+bankrupt
+bankruptcy
+banter (noun)
+bar (noun)
+barber
+bare (adjective)
+cage
+cake
+calculate (verb)
+calculation (noun)
+calendar (noun)
+calf
+call (noun)
+call (verb)
+callous (adjective)
+calm
+camera (noun)
+camp (noun)
+camp (verb)
+campaign (noun)
+campus
+can (verb)
+can (noun)
+cancel (verb)
+cancer (noun)
+candid (adjective)
+candidate (noun)
+candy (noun)
+cap (noun)
+capable (adjective)
+capacity (noun)
+capital
+capital (adjective)
+captain (noun)
+capture (verb)
+car (noun)
+DA
+dad
+daily
+daily (adjective)
+dam (noun)
+damage (verb)
+damage (noun)
+damages (plural)
+damp (adjective)
+dance (verb)
+dance (noun)
+danger (noun)
+dangerous (adjective)
+dare (verb)
+dare (noun)
+dark (noun)
+dark (adjective)
+data (noun)
+date (noun)
+date (verb)
+daughter
+dawn
+day
+dead (adjective)
+deaf (adjective)
+deal (noun)
+deal (noun)
+deal (verb)
+dear (adjective)
+dearth (noun)
+e-mail (noun)
+e-mail (verb)
+each (adjective)
+each (pronoun)
+eager (adjective)
+ear (noun)
+earlier
+earlobe
+early (adjective)
+early
+earn (verb)
+earth (noun)
+ease (noun)
+ease (verb)
+east (adjective)
+east (adverb)
+east (noun)
+easy (adjective)
+easy (adverb)
+easygoing
+eat (verb)
+ecology
+economic (adjective)
+economics
+economist
+economy
+ecosystem
+edge (noun)
+edict (noun)
+edit
+fabric (noun)
+face
+face (verb)
+fact (noun)
+factor (noun)
+factory (noun)
+faculty
+fail
+failure (noun)
+faint (adjective)
+faint (verb)
+fair (noun)
+fair (adjective)
+faith (noun)
+fake (adjective)
+fake (noun)
+fake (verb)
+fall
+fall (verb)
+false (adjective)
+fame (noun)
+familiar (adjective)
+family (adjective)
+family (noun)
+famous (adjective)
+fan (noun)
+fan
+fancy (adjective)
+far (adjective)
+far (adverb)
+gain (noun)
+gain (verb)
+gallon (noun)
+game (noun)
+gap (noun)
+garage (noun)
+garbage
+garden (noun)
+gas (noun)
+gate (noun)
+gate
+gather (verb)
+gay (adjective)
+gear (noun)
+gender (noun)
+gene (noun)
+general (adjective)
+generally (adverb)
+generate (verb)
+generate (verb)
+generation (noun)
+generosity
+generous
+gentle
+gentleman (noun)
+genuine (adjective)
+geography (noun)
+geothermal
+get (verb)
+giant (noun)
+habit (noun)
+habitat
+hail
+hair (noun)
+half (adjective)
+half (adverb)
+half (noun)
+half (pronoun)
+half time
+hammer (noun)
+hand (verb)
+hand (noun)
+handle (verb)
+handle (noun)
+handsome (adjective)
+handwriting (noun)
+hang (verb)
+happen (verb)
+happy
+harbor (noun)
+hard (adjective)
+hard (adverb)
+hardly (adverb)
+hardware (noun)
+harm (noun)
+harm (verb)
+harsh (adjective)
+harvest (noun)
+hat (noun)
+hat trick
+I (pronoun)
+ice (noun)
+idea (noun)
+ideal (noun)
+ideal (adjective)
+identical (adjective)
+identification (noun)
+identify (verb)
+identity (noun)
+if (conjunction)
+ignominious (adjective)
+ignominy (noun)
+ignore (verb)
+ill (adverb)
+ill (adjective)
+illegal
+illness (noun)
+illustrate (verb)
+image (noun)
+imaginary (adjective)
+imagination (noun)
+imaginative
+imagine (verb)
+imitate (verb)
+immediate (adjective)
+immigrant (noun)
+immoral (adjective)
+impact (noun)
+impatience
+impatient
+jacket (noun)
+jail (noun)
+jam (verb)
+jar (noun)
+jargon (noun)
+jaw
+jealous (adjective)
+jealousy
+jelly (noun)
+jet (noun)
+jet engine
+jet lag
+jewel (noun)
+jeweler
+jewelry
+jibe (verb)
+job
+join (verb)
+joint (noun)
+joint (adjective)
+joke (noun)
+joke (verb)
+journal (noun)
+journey (noun)
+joy
+judge
+judge
+judge (verb)
+judgment (noun)
+juice (noun)
+keen (adjective)
+keep (verb)
+key (adjective)
+key (noun)
+kick (noun)
+kick (verb)
+kickoff
+kid (noun)
+kill (verb)
+kind (adjective)
+kind (noun)
+kindness
+king (noun)
+kingdom (noun)
+kiss (noun)
+kiss (verb)
+kitchen (noun)
+knee
+kneel (verb)
+knife (noun)
+knit (verb)
+knock (noun)
+knock (verb)
+knot (noun)
+know (verb)
+knowledge (noun)
+knuckle
+label (verb)
+label (noun)
+labor (verb)
+labor (noun)
+labor (noun)
+laboratory (noun)
+lack (verb)
+lack (noun)
+ladder (noun)
+lady (noun)
+lake (noun)
+lamp (noun)
+land (noun)
+land (verb)
+landfill
+landing
+landlord
+lane (noun)
+language (noun)
+large (adjective)
+last
+last (verb)
+last (pronoun)
+last (adjective)
+late (adjective)
+late
+lately
+later
+latter (adjective)
+laugh (noun)
+machine (noun)
+mad (adjective)
+magazine (noun)
+magic (adjective)
+magic (noun)
+mail
+mail (verb)
+main (adjective)
+maintain (verb)
+major (adjective)
+major
+majority (noun)
+make (verb)
+male (noun)
+male (adjective)
+malice (noun)
+malice
+man (noun)
+manage (verb)
+management (noun)
+manager
+manner (noun)
+manufacture (verb)
+many (adjective)
+many (pronoun)
+map (noun)
+march (verb)
+march (noun)
+margin (noun)
+mark (verb)
+nail (verb)
+nail
+naked (adjective)
+name (noun)
+name (verb)
+narrow (adjective)
+nation (noun)
+national (adjective)
+native (adjective)
+native (noun)
+natural (adjective)
+naturally (adverb)
+nature (noun)
+nausea
+navy (noun)
+near (adjective)
+near (adverb)
+near (preposition)
+nearby (adjective)
+nearly (adverb)
+neat (adjective)
+necessary (adjective)
+neck
+need (noun)
+need (verb)
+needle (noun)
+negative (adjective)
+negligence
+negligent
+neighbor (noun)
+o'clock (adverb)
+oath
+obdurate (adjective)
+obey (verb)
+object (verb)
+object (noun)
+objection (noun)
+objective (noun)
+objective (adjective)
+observation (noun)
+observe (verb)
+obsessive
+obtain (verb)
+obtain (verb)
+obviate (verb)
+obvious (adjective)
+occasion (noun)
+occasionally
+occupation (noun)
+occupy (verb)
+occur (verb)
+ocean (noun)
+October (noun)
+odd (adjective)
+odor (noun)
+of (preposition)
+off (adverb)
+off (preposition)
+offend (verb)
+offense (noun)
+p.m. (abbreviation)
+pace (noun)
+pack (verb)
+pack (noun)
+package (noun)
+pad (noun)
+page (noun)
+pain
+painful
+paint (verb)
+paint (noun)
+painter
+painting (noun)
+pair (noun)
+pale (adjective)
+palm
+pan (noun)
+panel (noun)
+panic
+pants (noun)
+paper (noun)
+parade (noun)
+paragraph
+parallel (adjective)
+paraphrase
+paraphrase
+parent
+park (noun)
+park (verb)
+parliament (noun)
+quad
+qualification (noun)
+qualify (verb)
+quality (noun)
+quantity (noun)
+quarter (noun)
+quarterback
+quarterly
+queen (noun)
+querulous (adjective)
+question (noun)
+question (verb)
+quick (adjective)
+quick (adverb)
+quiet (adjective)
+quit (verb)
+quite (adverb)
+quiz
+quotation
+quote (noun)
+quote (verb)
+race (noun)
+race (verb)
+race (noun)
+racial (adjective)
+radiation
+radical (adjective)
+radio (noun)
+rage
+rail (noun)
+railroad (noun)
+rain
+rain
+rain forest
+raise (verb)
+raise
+range (noun)
+range (noun)
+rank (verb)
+rank (noun)
+rapid (adjective)
+rare (adjective)
+rarely
+rash
+rate (verb)
+rate (noun)
+rather (adverb)
+ratio (noun)
+rational
+raw (adjective)
+reach (verb)
+sacrifice (verb)
+sacrifice (noun)
+sad (adjective)
+sadness
+safe (adjective)
+safety (noun)
+sail (noun)
+sail (verb)
+sake (noun)
+salad (noun)
+salary
+sale (noun)
+salesman
+salesperson
+saleswoman
+salt (noun)
+same (adjective)
+same (pronoun)
+sample (noun)
+sand (noun)
+sandwich (noun)
+sarcastic
+satisfaction
+satisfy (verb)
+Saturday (noun)
+sauce (noun)
+save (verb)
+savings
+say (verb)
+scale (noun)
+table (noun)
+tactful
+tactless
+tail (noun)
+take (verb)
+takeoff
+talent (noun)
+talk (verb)
+talk (noun)
+tall (adjective)
+tank (noun)
+tap (verb)
+tap (noun)
+tape (noun)
+target (noun)
+task (noun)
+taste (noun)
+taste (verb)
+tax
+taxi (verb)
+tea (noun)
+teach (verb)
+teacher
+team (noun)
+teammate
+tear (verb)
+tear (noun)
+technical (adjective)
+technique (noun)
+technology (noun)
+ugly (adjective)
+umbrella (noun)
+umpire
+unable (adjective)
+uncle
+under (adverb, preposition)
+underdog
+undergo (verb)
+undergraduate
+underground (adjective)
+underneath (adverb)
+understand (verb)
+understanding (noun)
+undertake (verb)
+undertaker
+undo (verb)
+unemployed (adjective)
+unemployment (noun)
+unfortunate (adjective)
+unfortunately (adverb)
+unhappiness
+unhappy (adjective)
+uniform (adjective)
+union (noun)
+unique (adjective)
+unit (noun)
+unite (verb)
+universal (adjective)
+universe (noun)
+university
+vacation
+vagina
+valley (noun)
+valuable (adjective)
+value (noun)
+value
+value (verb)
+variation (noun)
+variety (noun)
+various (adjective)
+vary (verb)
+vast (adjective)
+vegetable (noun)
+vehicle (noun)
+verb (noun)
+verdict
+version (noun)
+very (adverb)
+vessel (noun)
+vestige (noun)
+veterinarian
+victim (noun)
+victory (noun)
+video (adjective)
+video (noun)
+videographer
+view (noun)
+view (verb)
+vilify (verb)
+village (noun)
+wage
+wage (noun)
+waist
+wait (verb)
+waiter
+waiting room
+waitress
+waive (verb)
+wake (verb)
+walk (noun, verb)
+wall (noun)
+wallet (noun)
+wander (verb)
+want (verb)
+war (noun)
+warm (adjective, verb)
+warm front
+warmth (noun)
+warn (verb)
+warning (noun)
+wash (noun, verb)
+waste
+waste (adjective, noun, verb)
+watch (noun, verb)
+water (noun)
+wave (noun, verb)
+wax (noun)
+way (noun)
+we (pronoun)
+weak (adjective)
+yard (noun)
+yawn (noun, verb)
+yeah (adverb)
+year
+yearly
+yell (verb)
+yellow (adjective, noun)
+yes (adverb)
+yesterday
+yet
+you (pronoun)
+young (adjective)
+your (adjective)
+yours (pronoun)
+yourself (pronoun)
+youth (noun)
+zealot (noun)
+zenith (noun)
+zero (noun)
+zipper (noun)
+zone (noun)
+zoo (noun)

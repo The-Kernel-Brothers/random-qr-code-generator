@@ -1,3 +1,1 @@
-# test
-
-This is some shit i made 
+# Some random qr code generator

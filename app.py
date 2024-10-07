@@ -52,7 +52,7 @@ def show_qr_code_window(url):
     root.mainloop()
 
 def main():
-    words = load_words_from_file('dictionary.txt')
+    words = load_words_from_file('words.txt')
     random_sentence = generate_random_sentence(words, num_words=5)
     print(f"Generated Sentence: {random_sentence}")
     search_url = create_google_search_url(random_sentence)

@@ -1,700 +1,3258 @@
-a (indefinite article)
-abandon (verb)
-ability (noun)
-able (adjective)
-about (adjective, adverb, preposition)
-above (adverb, preposition)
-abroad (adverb)
-absence (noun)
-absent (adjective)
-absolute (adjective)
+a
+abandon
+ability
+able
+about
+above
+abroad
+absence
+absent
+absolute
 abstract
-abuse (noun, verb)
+abuse
 abusive
-academic (adjective)
-accede (verb)
-accept (verb)
-acceptable (adjective)
+academic
+accede
+accept
+acceptable
 acceptance
-access (noun, verb)
-accident (noun)
-accolade (noun)
-accompany (verb)
-accomplish (verb)
-accord (noun)
-according+to (preposition)
-account (noun)
+access
+accident
+accolade
+accompany
+accomplish
+accord
+according+to
+account
 accountant
-accurate (adjective)
+accurate
 accuse
 ache
-baby (noun)
-bachelor's degree
-back (verb)
+achieve
+acknowledge
+acquire
+acquit
+acronym
+across
+act
+action
+active
+activity
+actor
+actress
+actual
+actually
+ad
+adapt
+add
+addiction
+addition
+additional
+address
+adequate
+adjourn
+adjust
+administration
+admiration
+admire
+admission
+admit
+adopt
+adoption
+adult
+advance
+advantage
+adventure
+adventurous
+advertise
+advertisement
+advice
+advise
+affair
+affect
+affection
+affectionate
+afford
+afraid
+after
+afternoon
+again
+against
+age
+aged
+agency
+agenda
+agent
+aggravation
+aggressive
+ago
+agree
+agreement
+agriculture
+ah
+ahead
+aid
+aim
+air
+airplane
+airport
+aisle
+alacrity
+alarm
+alcohol
+alert
+alibi
+alimony
+alive
+all
+allergy
+allow
+allowance
+almost
+alone
+along
+alphabet
+already
+also
+alter
+alternative
+although
+altogether
+always
+amateur
+amaze
+ambiguous
+ambition
+ambitious
+among
+amount
+an
+analogy
+analysis
+analyze
+and
+anger
+angle
+angry
+anguish
+animal
+ankle
+anniversary
+announce
+annoy
+annoying
+annual
+annually
+another
+answer
+antihistamine
+antonym
+anxiety
+anxious
+any
+anybody
+anymore
+anyone
+anything
+anyway
+anywhere
+apart
+apartment
+apologize
+apology
+app
+apparent
+apparently
+appeal
+appear
+appearance
+appetite
+apple
+application
+apply
+appointment
+appreciate
+approach
+appropriate
+approval
+approve
+approximate
+april
+aquifer
+arbitrary
+arch
+architect
+area
+arena
+argue
+argument
+arm
+armpit
+army
+around
+arrange
+arrangement
+arrest
+arrival
+arrive
+arrow
+art
+article
+artificial
+artist
+artistic
+as
+ashamed
+aside
+ask
+askance
+asleep
+aspirin
+assess
+assignment
+assist
+assistant
+associate
+associate's
+assume
+assure
+at
+athlete
+athletic
+atmosphere
+attach
+attack
+attempt
+attend
+attention
+attitude
+attorney
+attract
+attraction
+attractive
+audience
+augment
+august
+aunt
+author
+authority
+automatic
+automobile
+autumn
+available
+avarice
+avenue
+average
+avoid
+awake
+award
+aware
+away
+awful
+baby
+bachelor's
+back
 backboard
-background (noun)
+background
 backhand
-backup (noun)
-backward (adjective, adverb)
-bacterium (noun)
-bad (adjective)
-badly (adverb)
-bag (noun)
+backup
+backward
+bacterium
+bad
+badly
+bag
 baggage
-bake (verb)
-balance (noun, verb)
-balance (verb)
-ball (noun)
-band (noun)
+bake
+balance
+ball
+band
 bandage
-bane (noun)
-bang (verb)
-bank (noun)
+bane
+bang
+bank
 banker
 bankrupt
-bankrupt
 bankruptcy
-banter (noun)
-bar (noun)
+banter
+bar
 barber
-bare (adjective)
+bare
+bark
+barn
+barometer
+barrier
+bartender
+base
+baseball
+basic
+basically
+basis
+basket
+basketball
+bath
+bathe
+bathroom
+batter
+battery
+battle
+be
+beach
+beak
+bean
+bear
+beard
+beat
+beautiful
+beauty
+because
+become
+bed
+bedroom
+bee
+beef
+beer
+before
+beg
+begin
+beginning
+behalf
+behave
+behavior
+behind
+being
+belie
+belief
+believe
+bell
+belong
+below
+belt
+bench
+bend
+beneath
+benefit
+beside
+besides
+best
+bestow
+bet
+better
+between
+beyond
+bible
+bibliography
+bicycle
+bid
+big
+bill
+billion
+bind
+biodegradable
+biodiversity
+biology
+bird
+birth
+birthday
+bit
+bite
+bitter
+black
+blackout
+blade
+blame
+bland
+blank
+blanket
+bleed
+blend
+blind
+blizzard
+block
+blog
+blond
+blood
+blow
+blue
+board
+boarding
+boast
+boat
+body
+boil
+bold
+bomb
+bond
+bone
+bonus
+book
+bookkeeper
+boot
+border
+bore
+boredom
+born
+borrow
+boss
+bossy
+both
+bother
+bottle
+bottom
+bounce
+bound
+boundary
+bow
+bowl
+box
+boy
+boyfriend
+brace
+brain
+branch
+brand
+brave
+bread
+break
+breakfast
+breast
+breath
+breathe
+breed
+breezy
+bribe
+bride
+bridge
+brief
+bright
+brilliant
+bring
+broad
+broadcast
+broken
+bronchitis
+brother
+brother-in-law
+brown
+bruise
+brush
+bubble
+bucolic
+budget
+build
+builder
+building
+bulkhead
+bullet
+bully
+bulwark
+bunch
+burn
+bury
+bus
+bush
+business
+businessman
+businessperson
+businesswoman
+busy
+but
+butcher
+butter
+button
+buy
+by
+bye
 cage
 cake
-calculate (verb)
-calculation (noun)
-calendar (noun)
+calculate
+calculation
+calendar
 calf
-call (noun)
-call (verb)
-callous (adjective)
+call
+callous
 calm
-camera (noun)
-camp (noun)
-camp (verb)
-campaign (noun)
+camera
+camp
+campaign
 campus
-can (verb)
-can (noun)
-cancel (verb)
-cancer (noun)
-candid (adjective)
-candidate (noun)
-candy (noun)
-cap (noun)
-capable (adjective)
-capacity (noun)
+can
+cancel
+cancer
+candid
+candidate
+candy
+cap
+capable
+capacity
 capital
-capital (adjective)
-captain (noun)
-capture (verb)
-car (noun)
-DA
+captain
+capture
+car
+carbon
+carcinogen
+card
+care
+career
+careful
+careless
+carpenter
+carpet
+carrot
+carry
+carry-on
+case
+cash
+cashier
+cast
+castle
+cat
+catalog
+catch
+catcher
+category
+cattle
+cause
+caution
+cautious
+cave
+cease
+ceiling
+celebrate
+celebration
+cell
+cent
+center
+central
+century
+ceremony
+certain
+certainly
+certainty
+chain
+chair
+challenge
+chamber
+champion
+championship
+chance
+change
+channel
+chaos
+chapter
+character
+characteristic
+charge
+charity
+charm
+charming
+chart
+chase
+chat
+cheap
+cheat
+check
+cheek
+cheerful
+cheese
+chef
+chemical
+chemistry
+chest
+chew
+chicken
+chief
+child
+childhood
+children
+chilly
+chin
+chip
+chocolate
+choice
+choke
+choose
+chop
+christmas
+church
+circle
+circumspect
+circumstance
+circumvent
+citation
+citizen
+city
+civil
+claim
+clap
+clarify
+class
+classic
+classify
+clause
+clay
+clean
+clear
+clerk
+clever
+click
+cliff
+climate
+climb
+clinic
+clock
+close
+closet
+cloth
+clothes
+clothing
+cloud
+cloudy
+club
+coach
+coal
+coalesce
+coast
+coat
+cockpit
+code
+coffee
+cogent
+coherent
+coin
+cold
+collapse
+collar
+collect
+collection
+college
+color
+column
+comb
+complain
+complaint
+complete
+completion
+complex
+complicate
+complicated
+component
+compose
+composition
+compost
+compound
+comprehensive
+compulsive
+computer
+concentrate
+concentration
+concept
+concern
+concert
+conclude
+conclusion
+concrete
+condition
+conduct
+conference
+confidence
+confident
+confine
+confirm
+conflict
+confuse
+confusion
+congress
+conjunction
+connect
+connection
+conscience
+conscious
+consent
+conservation
+conservationist
+conservative
+consider
+considerable
+consideration
+consist
+consistent
+constant
+constantly
+constitution
+construct
+construction
+construe
+consult
+consumer
+contact
+contagious
+contain
+container
+contaminant
+contamination
+contemporary
+content
+contentment
+contest
+context
+continent
+continually
+continue
+continuous
+continuously
+contract
+contrast
+contribute
+contribution
+control
+convenient
+conversation
+convert
+convince
+cook
+cookie
+cool
+cooperate
+cooperation
+cope
+copious
+copy
+copyright
+core
+corn
+corner
+corporate
+corporation
+corpulent
+correct
+correspond
+cost
+cottage
+cotton
+cough
+could
+council
+count
+country
+couple
+courage
+courageous
+course
+court
+cousin
+cover
+cow
+cowardly
+crack
+craft
+crash
+crazy
+cream
+create
+creative
+creature
+credence
+credible
+credit
+crew
+crime
+criminal
+crisis
+crisp
+cruel
+crutch
+curiosity
+currency
+custody
+customs
+cut
+cynical
+da
 dad
 daily
-daily (adjective)
-dam (noun)
-damage (verb)
-damage (noun)
-damages (plural)
-damp (adjective)
-dance (verb)
-dance (noun)
-danger (noun)
-dangerous (adjective)
-dare (verb)
-dare (noun)
-dark (noun)
-dark (adjective)
-data (noun)
-date (noun)
-date (verb)
+dam
+damage
+damages
+damp
+dance
+danger
+dangerous
+dare
+dark
+data
+date
 daughter
 dawn
 day
-dead (adjective)
-deaf (adjective)
-deal (noun)
-deal (noun)
-deal (verb)
-dear (adjective)
-dearth (noun)
-e-mail (noun)
-e-mail (verb)
-each (adjective)
-each (pronoun)
-eager (adjective)
-ear (noun)
+dead
+deaf
+deal
+dear
+dearth
+death
+debate
+debt
+decade
+decay
+decide
+decision
+decisive
+declare
+decline
+decongestant
+decorate
+decoration
+decorative
+decrease
+deep
+defeat
+defend
+defendant
+defense
+deference
+defiance
+deficit
+define
+definite
+definition
+deforestation
+degree
+delay
+deliberate
+delicate
+delicious
+delight
+deliver
+demand
+democracy
+demonstrate
+dental
+dentist
+deny
+department
+departure
+depend
+dependence
+deplete
+deposit
+depress
+depression
+depth
+derive
+describe
+description
+desert
+deserve
+design
+designer
+desire
+desk
+desperate
+despite
+destroy
+destruction
+detail
+determine
+determined
+develop
+developer
+development
+device
+devote
+diamond
+diarrhea
+diary
+dictionary
+didactic
+die
+diet
+dietician
+difference
+different
+difficult
+difficulty
+diffident
+dig
+dimension
+dinner
+dip
+direct
+direction
+director
+dirt
+dirty
+disagree
+disagreement
+disappear
+disappoint
+disappointment
+disapproval
+disapprove
+disaster
+disc
+discipline
+disconcert
+discover
+discovery
+discursive
+discuss
+discussion
+disease
+disgust
+dish
+dishonest
+dislike
+dismay
+dismiss
+display
+disposable
+dispute
+disrespect
+dissolve
+distance
+distant
+distinct
+distinguish
+distress
+distribute
+distribution
+district
+distrust
+disturb
+dive
+diversity
+divide
+division
+divorce
+divulge
+dizzy
+do
+doctor
+document
+dog
+doll
+dollar
+domestic
+dominant
+dominate
+domineering
+door
+dorm
+dot
+double
+doubles
+doubt
+down
+draft
+dribble
+dugout
+dusk
+duty-free
+e-mail
+each
+eager
+ear
 earlier
 earlobe
-early (adjective)
 early
-earn (verb)
-earth (noun)
-ease (noun)
-ease (verb)
-east (adjective)
-east (adverb)
-east (noun)
-easy (adjective)
-easy (adverb)
+earn
+earth
+ease
+east
+easy
 easygoing
-eat (verb)
+eat
 ecology
-economic (adjective)
+economic
 economics
 economist
 economy
 ecosystem
-edge (noun)
-edict (noun)
+edge
+edict
 edit
-fabric (noun)
+edition
+editor
+educate
+education
+effect
+effective
+effete
+efficient
+effort
+egg
+either
+elastic
+elbow
+elect
+election
+electric
+electrician
+electricity
+electronic
+element
+else
+elsewhere
+embarrass
+embarrassment
+emerge
+emergency
+emission
+emotion
+emotional
+emphasis
+emphasize
+empire
+employ
+employee
+employer
+employment
+empty
+enable
+encounter
+encourage
+end
+endangered
+enemy
+energy
+engage
+engaged
+engine
+engineer
+english
+enjoy
+enjoyment
+enormous
+enough
+enroll
+ensue
+ensure
+enter
+entertain
+entertainment
+enthusiasm
+enthusiastic
+entire
+entrance
+entreat
+entry
+envelope
+environment
+environmentalist
+envy
+equal
+equipment
+equivalent
+erase
+erosion
+error
+escape
+especially
+essay
+essential
+establish
+estate
+estimate
+ethnic
+evaluate
+even
+evening
+event
+eventually
+ever
+every
+everybody
+everyday
+everyone
+everything
+everywhere
+evidence
+evident
+evil
+ex
+exact
+exactly
+exaggerate
+exam
+examination
+examine
+example
+exceed
+excellent
+except
+exception
+excess
+exchange
+excite
+excitement
+exclude
+excuse
+executive
+exercise
+expatiate
+exploit
+extinct
+extinction
+extroverted
+eyebrow
+eyelash
+eyelid
+fabric
 face
-face (verb)
-fact (noun)
-factor (noun)
-factory (noun)
+fact
+factor
+factory
 faculty
 fail
-failure (noun)
-faint (adjective)
-faint (verb)
-fair (noun)
-fair (adjective)
-faith (noun)
-fake (adjective)
-fake (noun)
-fake (verb)
+failure
+faint
+fair
+faith
+fake
 fall
-fall (verb)
-false (adjective)
-fame (noun)
-familiar (adjective)
-family (adjective)
-family (noun)
-famous (adjective)
-fan (noun)
+false
+fame
+familiar
+family
+famous
 fan
-fancy (adjective)
-far (adjective)
-far (adverb)
-gain (noun)
-gain (verb)
-gallon (noun)
-game (noun)
-gap (noun)
-garage (noun)
+fancy
+far
+farm
+farmer
+fashion
+fast
+fasten
+fat
+fate
+father
+father-in-law
+fatuous
+fault
+favor
+favorite
+fear
+fearful
+feasible
+feather
+feature
+federal
+fee
+feed
+feel
+feeling
+fellow
+felon
+felony
+female
+fence
+festival
+fever
+few
+fiancé
+fiancée
+fiasco
+fiber
+field
+fierce
+fight
+figure
+fill
+film
+filmmaker
+final
+finally
+finance
+financial
+find
+fine
+finger
+finish
+fire
+firm
+first
+fiscal
+fish
+fisherman
+fit
+fix
+flag
+flame
+flash
+flat
+flavor
+flesh
+flexible
+flextime
+flight
+float
+flood
+floor
+flour
+flow
+flower
+flu
+fluctuate
+fluid
+flurries
+fly
+focus
+fog
+fold
+football
+footnote
+forearm
+forecast
+forehand
+forehead
+forever
+formerly
+fossil
+frank
+fraternity
+fraud
+free
+frequently
+friday
+friendly
+frustrate
+frustration
+full-time
+fun
+fund
+funny
+furniture
+fury
+gain
+gallon
+game
+gap
+garage
 garbage
-garden (noun)
-gas (noun)
-gate (noun)
+garden
+gas
 gate
-gather (verb)
-gay (adjective)
-gear (noun)
-gender (noun)
-gene (noun)
-general (adjective)
-generally (adverb)
-generate (verb)
-generate (verb)
-generation (noun)
+gather
+gay
+gear
+gender
+gene
+general
+generally
+generate
+generation
 generosity
 generous
 gentle
-gentleman (noun)
-genuine (adjective)
-geography (noun)
+gentleman
+genuine
+geography
 geothermal
-get (verb)
-giant (noun)
-habit (noun)
+get
+giant
+gibe
+gift
+girl
+give
+glad
+glass
+glib
+global
+glory
+glove
+glow
+glue
+go
+goal
+goalkeeper
+goalpost
+god
+gold
+golden
+good
+goodbye
+govern
+government
+governor
+gpa
+grab
+graceful
+grade
+gradual
+graduate
+grain
+grammar
+grand
+grandchild
+granddaughter
+grandfather
+grandmother
+grandparent
+grandson
+grant
+grass
+grateful
+grave
+gravity
+gray
+great
+greed
+greedy
+green
+greenhouse
+greet
+gregarious
+grief
+grind
+grocery
+groom
+groove
+ground
+groundwater
+group
+grow
+guarantee
+guard
+guardian
+guess
+guest
+guide
+guilt
+guilty
+gullible
+gum
+gun
+gust
+guy
+habit
 habitat
 hail
-hair (noun)
-half (adjective)
-half (adverb)
-half (noun)
-half (pronoun)
-half time
-hammer (noun)
-hand (verb)
-hand (noun)
-handle (verb)
-handle (noun)
-handsome (adjective)
-handwriting (noun)
-hang (verb)
-happen (verb)
+hair
+half
+hammer
+hand
+handle
+handsome
+handwriting
+hang
+happen
 happy
-harbor (noun)
-hard (adjective)
-hard (adverb)
-hardly (adverb)
-hardware (noun)
-harm (noun)
-harm (verb)
-harsh (adjective)
-harvest (noun)
-hat (noun)
-hat trick
-I (pronoun)
-ice (noun)
-idea (noun)
-ideal (noun)
-ideal (adjective)
-identical (adjective)
-identification (noun)
-identify (verb)
-identity (noun)
-if (conjunction)
-ignominious (adjective)
-ignominy (noun)
-ignore (verb)
-ill (adverb)
-ill (adjective)
+harbor
+hard
+hardly
+hardware
+harm
+harsh
+harvest
+hat
+hatch
+hate
+hatred
+have
+hazy
+he
+head
+headache
+heal
+health
+healthy
+hear
+hearing
+heart
+heat
+heaven
+heavy
+heel
+height
+hell
+hello
+help
+helpful
+hence
+her
+herbicide
+here
+hero
+hers
+herself
+hesitate
+hide
+high
+high-pressure
+highlight
+highway
+hill
+him
+himself
+hint
+hip
+hire
+his
+historical
+history
+hit
+hives
+hobby
+hockey
+hold
+hole
+holiday
+hollow
+holy
+home
+homework
+honest
+honesty
+honor
+hook
+hop
+hope
+hopeful
+horizontal
+horn
+horror
+horse
+hose
+hospital
+host
+hostility
+hot
+hotel
+hour
+hourly
+house
+household
+housework
+how
+however
+hug
+huge
+humid
+humidity
+hurricane
+husband
+hypothesis
+i
+ice
+idea
+ideal
+identical
+identification
+identify
+identity
+if
+ignominious
+ignominy
+ignore
+ill
 illegal
-illness (noun)
-illustrate (verb)
-image (noun)
-imaginary (adjective)
-imagination (noun)
+illness
+illustrate
+image
+imaginary
+imagination
 imaginative
-imagine (verb)
-imitate (verb)
-immediate (adjective)
-immigrant (noun)
-immoral (adjective)
-impact (noun)
+imagine
+imitate
+immediate
+immigrant
+immoral
+impact
 impatience
 impatient
-jacket (noun)
-jail (noun)
-jam (verb)
-jar (noun)
-jargon (noun)
+implacable
+import
+importance
+important
+impossible
+impress
+impression
+impressive
+improve
+improvement
+impulsive
+in
+inch
+incident
+incidental
+include
+income
+increase
+indeed
+indefatigable
+independence
+independent
+index
+indicate
+indict
+indictment
+indigestion
+individual
+industrial
+industry
+inevitable
+infant
+infect
+infection
+infield
+inflation
+influence
+influenza
+inform
+informal
+information
+infrequently
+ingratiate
+ingredient
+initial
+initiative
+injection
+injure
+injury
+ink
+inmate
+inner
+inning
+innocent
+inscrutable
+insect
+insert
+inside
+insist
+inspect
+install
+instance
+instant
+instead
+institute
+institution
+instruction
+instructor
+instrument
+insult
+insurance
+intellectual
+intelligence
+intelligent
+intend
+intense
+intention
+interest
+interested
+interesting
+interior
+interjection
+internal
+internet
+interpret
+interrupt
+interval
+interview
+into
+introduce
+introduction
+introverted
+invade
+invent
+invention
+invest
+investigate
+investment
+irksome
+irresolute
+itinerary
+jacket
+jail
+jam
+jar
+jargon
 jaw
-jealous (adjective)
+jealous
 jealousy
-jelly (noun)
-jet (noun)
-jet engine
-jet lag
-jewel (noun)
+jelly
+jet
+jewel
 jeweler
 jewelry
-jibe (verb)
+jibe
 job
-join (verb)
-joint (noun)
-joint (adjective)
-joke (noun)
-joke (verb)
-journal (noun)
-journey (noun)
+join
+joint
+joke
+journal
+journey
 joy
 judge
-judge
-judge (verb)
-judgment (noun)
-juice (noun)
-keen (adjective)
-keep (verb)
-key (adjective)
-key (noun)
-kick (noun)
-kick (verb)
+judgment
+juice
+jumbo
+jump
+junior
+jurisdiction
+juror
+jury
+just
+justice
+keen
+keep
+key
+kick
 kickoff
-kid (noun)
-kill (verb)
-kind (adjective)
-kind (noun)
+kid
+kill
+kind
 kindness
-king (noun)
-kingdom (noun)
-kiss (noun)
-kiss (verb)
-kitchen (noun)
+king
+kingdom
+kiss
+kitchen
 knee
-kneel (verb)
-knife (noun)
-knit (verb)
-knock (noun)
-knock (verb)
-knot (noun)
-know (verb)
-knowledge (noun)
+kneel
+knife
+knit
+knock
+knot
+know
+knowledge
 knuckle
-label (verb)
-label (noun)
-labor (verb)
-labor (noun)
-labor (noun)
-laboratory (noun)
-lack (verb)
-lack (noun)
-ladder (noun)
-lady (noun)
-lake (noun)
-lamp (noun)
-land (noun)
-land (verb)
+label
+labor
+laboratory
+lack
+ladder
+lady
+lake
+lamp
+land
 landfill
 landing
 landlord
-lane (noun)
-language (noun)
-large (adjective)
+lane
+language
+large
 last
-last (verb)
-last (pronoun)
-last (adjective)
-late (adjective)
 late
 lately
 later
-latter (adjective)
-laugh (noun)
-machine (noun)
-mad (adjective)
-magazine (noun)
-magic (adjective)
-magic (noun)
+latter
+laugh
+launch
+lavatory
+law
+lawyer
+lay
+layer
+layoff
+lazy
+lead
+leader
+leaf
+league
+leak
+lean
+learn
+least
+leather
+leave
+lecture
+left
+leg
+legal
+lemon
+lend
+length
+less
+lesson
+let
+letter
+level
+liberal
+liberty
+library
+license
+lid
+lie
+life
+lift
+light
+lightning
+like
+likely
+limit
+line
+link
+lip
+liquid
+list
+listen
+literary
+literature
+litigate
+little
+live
+load
+loaf
+loan
+local
+locate
+location
+lock
+locker
+logic
+logical
+loneliness
+lonely
+long
+longing
+look
+loose
+lord
+lose
+loss
+lost
+lot
+loud
+love
+lovely
+low
+lower
+loyal
+luck
+lucky
+ludicrous
+luggage
+lump
+lunch
+lung
+lust
+machine
+mad
+magazine
+magic
 mail
-mail (verb)
-main (adjective)
-maintain (verb)
-major (adjective)
+main
+maintain
 major
-majority (noun)
-make (verb)
-male (noun)
-male (adjective)
-malice (noun)
+majority
+make
+male
 malice
-man (noun)
-manage (verb)
-management (noun)
+man
+manage
+management
 manager
-manner (noun)
-manufacture (verb)
-many (adjective)
-many (pronoun)
-map (noun)
-march (verb)
-march (noun)
-margin (noun)
-mark (verb)
-nail (verb)
+manner
+manufacture
+many
+map
+march
+margin
+mark
+market
+marriage
+marry
+mass
+master
+master's
+match
+mate
+material
+mathematics
+matriculate
+matter
+maximum
+may
+maybe
+mayor
+me
+meal
+mean
+meaning
+means
+meanwhile
+measure
+measurement
+meat
+mechanic
+mechanical
+mechanism
+media
+mediation
+medical
+medication
+medicine
+medium
+meet
+meeting
+melt
+member
+membership
+memory
+mental
+mention
+menu
+mercy
+mere
+merely
+merry
+mess
+message
+metal
+metaphor
+meter
+methane
+method
+mettle
+microcosm
+middle
+midnight
+might
+mild
+mile
+military
+milk
+mill
+mind
+mine
+mineral
+minimum
+minister
+minor
+minority
+minute
+miracle
+mirror
+misery
+miss
+mission
+mistake
+mix
+mixture
+mobile
+mode
+model
+moderate
+modern
+modest
+mom
+moment
+monday
+money
+monitor
+month
+monthly
+mood
+moody
+moon
+moral
+more
+morning
+morose
+most
+mostly
+mother
+mother-in-law
+motion
+motor
+mount
+mountain
+mouse
+mouth
+move
+movement
+movie
+much
+mud
+muggy
+multiply
+mundane
+murder
+muscle
+museum
+music
+musical
+musician
+must
+mustache
+mutual
+my
+myself
+mysterious
+mystery
 nail
-naked (adjective)
-name (noun)
-name (verb)
-narrow (adjective)
-nation (noun)
-national (adjective)
-native (adjective)
-native (noun)
-natural (adjective)
-naturally (adverb)
-nature (noun)
+naked
+name
+narrow
+nation
+national
+native
+natural
+naturally
+nature
 nausea
-navy (noun)
-near (adjective)
-near (adverb)
-near (preposition)
-nearby (adjective)
-nearly (adverb)
-neat (adjective)
-necessary (adjective)
+navy
+near
+nearby
+nearly
+neat
+necessary
 neck
-need (noun)
-need (verb)
-needle (noun)
-negative (adjective)
+need
+needle
+negative
 negligence
 negligent
-neighbor (noun)
-o'clock (adverb)
+neighbor
+neighborhood
+neither
+nephew
+nerve
+nervous
+nest
+net
+nettle
+network
+neutral
+never
+nevertheless
+new
+newly
+news
+newspaper
+next
+nice
+niece
+night
+no
+nobody
+noise
+noisy
+none
+noon
+nor
+normal
+normally
+nostril
+notary
+notebook
+notes
+now
+nuclear
+nurse
+nutritionist
+o'clock
 oath
-obdurate (adjective)
-obey (verb)
-object (verb)
-object (noun)
-objection (noun)
-objective (noun)
-objective (adjective)
-observation (noun)
-observe (verb)
+obdurate
+obey
+object
+objection
+objective
+observation
+observe
 obsessive
-obtain (verb)
-obtain (verb)
-obviate (verb)
-obvious (adjective)
-occasion (noun)
+obtain
+obviate
+obvious
+occasion
 occasionally
-occupation (noun)
-occupy (verb)
-occur (verb)
-ocean (noun)
-October (noun)
-odd (adjective)
-odor (noun)
-of (preposition)
-off (adverb)
-off (preposition)
-offend (verb)
-offense (noun)
-p.m. (abbreviation)
-pace (noun)
-pack (verb)
-pack (noun)
-package (noun)
-pad (noun)
-page (noun)
+occupation
+occupy
+occur
+ocean
+october
+odd
+odor
+of
+off
+offend
+offense
+offensive
+offer
+office
+officer
+official
+often
+oh
+oil
+ok
+old
+old-fashioned
+on
+once
+one
+one-way
+oneself
+only
+onto
+open
+opening
+operate
+operation
+opinion
+opponent
+opportunity
+oppose
+opposite
+opposition
+oppress
+optician
+optimism
+optimistic
+option
+or
+orange
+order
+ordinary
+organ
+organic
+organization
+organize
+origin
+original
+originally
+other
+otherwise
+ought
+ounce
+our
+ours
+ourselves
+out
+outcome
+outdoors
+outfield
+outgoing
+overbook
+overcast
+oxygen
+ozone
+p.m.
+pace
+pack
+package
+pad
+page
 pain
 painful
-paint (verb)
-paint (noun)
+paint
 painter
-painting (noun)
-pair (noun)
-pale (adjective)
+painting
+pair
+pale
 palm
-pan (noun)
-panel (noun)
+pan
+panel
 panic
-pants (noun)
-paper (noun)
-parade (noun)
+pants
+paper
+parade
 paragraph
-parallel (adjective)
-paraphrase
+parallel
 paraphrase
 parent
-park (noun)
-park (verb)
-parliament (noun)
+park
+parliament
+part
+part-time
+participate
+particle
+particular
+partly
+partner
+party
+pass
+passage
+passenger
+passion
+passport
+past
+paste
+pat
+patch
+patent
+path
+patience
+patient
+pattern
+pause
+pay
+payment
+peace
+peaceful
+peak
+peel
+pen
+penalty
+pencil
+penis
+penny
+people
+pepper
+per
+percent
+peremptory
+perfect
+perform
+performance
+performer
+perfume
+perhaps
+period
+permanent
+permeate
+permission
+permit
+persistent
+person
+personal
+personality
+personally
+persuade
+pessimism
+pessimistic
+pest
+pesticide
+pet
+petal
+petroleum
+pharmacist
+phase
+phd
+philosophy
+phone
+photograph
+photographer
+photography
+phrase
+physical
+physician
+physician's
+physics
+piano
+pick
+picture
+piece
+pig
+pile
+pill
+pilot
+pin
+pink
+pinkie
+pipe
+pitch
+pitcher
+pity
+place
+plain
+plan
+planet
+plant
+plastic
+plate
+platform
+platitude
+play
+player
+plea
+pleasant
+please
+pleasure
+plenty
+plot
+plumber
+plus
+pocket
+poem
+poetry
+point
+poison
+poisonous
+pole
+police
+policy
+polish
+polite
+political
+politician
+politics
+pollutant
+pollution
+pompous
+pond
+pool
+poor
+pop
+popular
+population
+port
+portion
+pose
+position
+positive
+possess
+possession
+possibility
+possible
+possibly
+post
+postage
+postgraduate
+pot
+potato
+potential
+pound
+pour
+poverty
+power
+powerful
+practical
+practice
+praise
+pray
+prayer
+precipitation
+precise
+predict
+prefer
+preference
+pregnant
+prejudice
+premise
+preparation
+prepare
+preposition
+prerequisite
+prescribe
+prescription
+preseason
+presence
+present
+preserve
+president
+press
+pressure
+pretend
+pretty
+prevent
+previous
+previously
+price
+pride
+priest
+primary
+prime
+prince
+princess
+principal
+principle
+print
+prior
+prison
+prisoner
+private
+privilege
+prize
+pro
+probable
+probably
+probation
+problem
+procedure
+proceed
+professor
+profit
+programmer
+progress
+promotion
+propeller
+property
+prosecute
+prosecutor
+proximity
+psychologist
+puck
+pupil
 quad
-qualification (noun)
-qualify (verb)
-quality (noun)
-quantity (noun)
-quarter (noun)
+qualification
+qualify
+quality
+quantity
+quarter
 quarterback
 quarterly
-queen (noun)
-querulous (adjective)
-question (noun)
-question (verb)
-quick (adjective)
-quick (adverb)
-quiet (adjective)
-quit (verb)
-quite (adverb)
+queen
+querulous
+question
+quick
+quiet
+quit
+quite
 quiz
 quotation
-quote (noun)
-quote (verb)
-race (noun)
-race (verb)
-race (noun)
-racial (adjective)
+quote
+race
+racial
 radiation
-radical (adjective)
-radio (noun)
+radical
+radio
 rage
-rail (noun)
-railroad (noun)
+rail
+railroad
 rain
-rain
-rain forest
-raise (verb)
 raise
-range (noun)
-range (noun)
-rank (verb)
-rank (noun)
-rapid (adjective)
-rare (adjective)
+range
+rank
+rapid
+rare
 rarely
 rash
-rate (verb)
-rate (noun)
-rather (adverb)
-ratio (noun)
+rate
+rather
+ratio
 rational
-raw (adjective)
-reach (verb)
-sacrifice (verb)
-sacrifice (noun)
-sad (adjective)
+raw
+reach
+react
+reaction
+read
+reader
+reading
+ready
+real
+realistic
+reality
+realize
+really
+rear
+reason
+reasonable
+reasonably
+rebuke
+recall
+receive
+recent
+recently
+reception
+receptionist
+recession
+recognition
+recognize
+recommend
+record
+recover
+recreational
+recycle
+red
+redolent
+reduce
+reduction
+refer
+referee
+reference
+reflect
+reform
+refrigerator
+refuse
+regard
+region
+register
+registrar
+regret
+regular
+regulation
+reject
+relate
+relation
+relationship
+relative
+relax
+release
+relevant
+reliable
+relief
+relieve
+religion
+religious
+rely
+remain
+remark
+remarkable
+remember
+remind
+remove
+renegade
+renewable
+rent
+repair
+repeat
+replace
+reply
+report
+represent
+representative
+reproduce
+republic
+reputation
+request
+require
+requirement
+rescue
+research
+reserve
+reserved
+resident
+resign
+resist
+resistance
+resolve
+resource
+respect
+respond
+response
+responsibility
+responsible
+rest
+restaurant
+restore
+restraining
+restrict
+result
+retain
+retire
+retirement
+retrieve
+return
+reveal
+reverse
+review
+revise
+revision
+revolution
+reward
+rhyme
+rhythm
+rice
+rich
+rid
+ride
+right
+ring
+riot
+rise
+risk
+river
+road
+rob
+rock
+role
+roll
+romantic
+roof
+room
+roommate
+root
+rope
+rough
+roughly
+round
+route
+routine
+row
+royal
+rub
+rubber
+rude
+rug
+ruin
+rule
+run
+runway
+rush
+ruthless
+résumé
+sacrifice
+sad
 sadness
-safe (adjective)
-safety (noun)
-sail (noun)
-sail (verb)
-sake (noun)
-salad (noun)
+safe
+safety
+sail
+sake
+salad
 salary
-sale (noun)
+sale
 salesman
 salesperson
 saleswoman
-salt (noun)
-same (adjective)
-same (pronoun)
-sample (noun)
-sand (noun)
-sandwich (noun)
+salt
+same
+sample
+sand
+sandwich
 sarcastic
 satisfaction
-satisfy (verb)
-Saturday (noun)
-sauce (noun)
-save (verb)
+satisfy
+saturday
+sauce
+save
 savings
-say (verb)
-scale (noun)
-table (noun)
+say
+scale
+scalp
+scare
+scene
+scenery
+schedule
+scheme
+school
+science
+scientific
+scientist
+scissors
+scope
+score
+scoreboard
+scorn
+scratch
+scream
+screen
+screw
+scrutinize
+sea
+seal
+search
+season
+seat
+second
+secondary
+secret
+secretary
+secretive
+section
+secure
+security
+see
+seed
+seek
+seem
+seize
+seldom
+select
+selection
+self
+self-centered
+selfish
+sell
+semester
+semiannually
+semifinal
+senate
+send
+senior
+sense
+sensible
+sensitive
+sentence
+separate
+separation
+series
+serious
+servant
+serve
+service
+session
+set
+settle
+several
+severe
+sew
+sexual
+shade
+shadow
+shake
+shall
+shallow
+shame
+shape
+share
+sharp
+shave
+she
+sheep
+sheet
+shelf
+shell
+shelter
+shift
+shin
+shine
+ship
+shirt
+shock
+shoe
+shoot
+shop
+shore
+short
+shot
+should
+shoulder
+shout
+show
+shower
+shut
+shy
+sick
+side
+sideburns
+sight
+sign
+signal
+signature
+significant
+silence
+silent
+silk
+silly
+silver
+similar
+simper
+simple
+sin
+since
+sincere
+sing
+singer
+single
+singles
+sink
+sir
+sister
+sister-in-law
+sit
+site
+situation
+size
+skill
+skin
+skirt
+sky
+slang
+slap
+sleep
+sleeve
+slice
+slide
+slight
+slip
+slope
+slow
+small
+smart
+smell
+smile
+smog
+smoke
+smooth
+snake
+sneeze
+snow
+so
+so-called
+soap
+soccer
+sociable
+social
+society
+sock
+soft
+software
+soil
+solar
+soldier
+solid
+solution
+solve
+some
+somebody
+somehow
+someone
+something
+sometimes
+somewhat
+somewhere
+son
+song
+soon
+sore
+sorority
+sorrow
+sorry
+sort
+soul
+sound
+soup
+sour
+source
+south
+southern
+space
+spare
+speak
+speaker
+special
+specific
+specify
+spectator
+speech
+speed
+spell
+spend
+spending
+spice
+spicy
+spill
+spin
+spirit
+spiritual
+spite
+splint
+split
+spoil
+spoon
+sport
+sportscaster
+sportsmanship
+spot
+sprain
+spray
+spread
+spring
+square
+squeeze
+stable
+stadium
+staff
+stage
+stair
+stamp
+stand
+standard
+standby
+star
+stare
+start
+state
+statement
+station
+statue
+status
+statute
+stay
+steady
+steal
+steam
+steel
+steep
+steer
+stem
+step
+stepfather
+stepmother
+stick
+sticky
+stiff
+still
+sting
+stir
+stitch
+stock
+stomach
+stone
+stop
+stopover
+storage
+store
+storm
+story
+stove
+straight
+strange
+stranger
+strap
+strategy
+stream
+street
+strength
+strengthen
+stress
+stretch
+strict
+strike
+string
+strip
+stripe
+stroke
+strong
+structure
+struggle
+stubborn
+student
+study
+stuff
+stupendous
+stupid
+style
+subject
+submit
+substance
+substantial
+substitute
+succeed
+success
+successful
+such
+suck
+sudden
+sue
+suffer
+sufficient
+sugar
+suggest
+suggestion
+suit
+suitable
+sum
+summary
+summer
+sunday
+sunny
+sunshine
+superficial
+support
+surgeon
+sustain
+sustainable
+syllabus
+sympathy
+table
 tactful
 tactless
-tail (noun)
-take (verb)
+tail
+take
 takeoff
-talent (noun)
-talk (verb)
-talk (noun)
-tall (adjective)
-tank (noun)
-tap (verb)
-tap (noun)
-tape (noun)
-target (noun)
-task (noun)
-taste (noun)
-taste (verb)
+talent
+talk
+tall
+tank
+tap
+tape
+target
+task
+taste
 tax
-taxi (verb)
-tea (noun)
-teach (verb)
+taxi
+tea
+teach
 teacher
-team (noun)
+team
 teammate
-tear (verb)
-tear (noun)
-technical (adjective)
-technique (noun)
-technology (noun)
-ugly (adjective)
-umbrella (noun)
+tear
+technical
+technique
+technology
+telephone
+television
+tell
+temper
+temperature
+temple
+temporary
+tempt
+tenant
+tend
+tendency
+tendon
+tennis
+tense
+tension
+tent
+term
+terrible
+territory
+terror
+test
+testify
+testimony
+text
+textbook
+texture
+than
+thank
+thanks
+that
+the
+theater
+their
+them
+theme
+themselves
+then
+theory
+therapist
+there
+therefore
+thermometer
+these
+thesis
+they
+thick
+thief
+thigh
+thin
+thing
+think
+thirsty
+this
+thorough
+though
+thought
+thoughtful
+thread
+threat
+threaten
+throat
+through
+throughout
+throw
+thumb
+thunder
+thunderstorm
+thursday
+thus
+ticket
+tide
+tie
+tight
+tilt
+time
+time-out
+tin
+tiny
+tip
+tire
+tired
+title
+to
+today
+toe
+together
+toilet
+tomorrow
+tone
+tongue
+tonight
+too
+tool
+tooth
+top
+topic
+tornado
+total
+touch
+touchdown
+tough
+tour
+tournament
+toward
+towel
+tower
+town
+toxic
+toy
+trace
+track
+trade
+tradition
+traditional
+traffic
+trail
+train
+trainer
+training
+transcript
+transfer
+transform
+transition
+translate
+translation
+translator
+transparent
+transport
+transportation
+trap
+trash
+travel
+treasure
+treat
+treatment
+tree
+trend
+trial
+triangle
+tribe
+trick
+trimester
+trip
+troop
+trophy
+tropical
+trouble
+tuesday
+tuition
+turbulence
+turgid
+ugly
+umbrella
 umpire
-unable (adjective)
+unable
 uncle
-under (adverb, preposition)
+under
 underdog
-undergo (verb)
+undergo
 undergraduate
-underground (adjective)
-underneath (adverb)
-understand (verb)
-understanding (noun)
-undertake (verb)
+underground
+underneath
+understand
+understanding
+undertake
 undertaker
-undo (verb)
-unemployed (adjective)
-unemployment (noun)
-unfortunate (adjective)
-unfortunately (adverb)
+undo
+unemployed
+unemployment
+unfortunate
+unfortunately
 unhappiness
-unhappy (adjective)
-uniform (adjective)
-union (noun)
-unique (adjective)
-unit (noun)
-unite (verb)
-universal (adjective)
-universe (noun)
+unhappy
+uniform
+union
+unique
+unit
+unite
+universal
+universe
 university
+unknown
+unless
+unlike
+unlikely
+until
+unusual
+up
+upon
+upper
+upset
+upstairs
+upward
+urban
+urge
+urgent
+us
+use
+useful
+user
+usual
+usually
 vacation
 vagina
-valley (noun)
-valuable (adjective)
-value (noun)
+valley
+valuable
 value
-value (verb)
-variation (noun)
-variety (noun)
-various (adjective)
-vary (verb)
-vast (adjective)
-vegetable (noun)
-vehicle (noun)
-verb (noun)
+variation
+variety
+various
+vary
+vast
+vegetable
+vehicle
+verb
 verdict
-version (noun)
-very (adverb)
-vessel (noun)
-vestige (noun)
+version
+very
+vessel
+vestige
 veterinarian
-victim (noun)
-victory (noun)
-video (adjective)
-video (noun)
+victim
+victory
+video
 videographer
-view (noun)
-view (verb)
-vilify (verb)
-village (noun)
+view
+vilify
+village
+violence
+violent
+virtually
+virtue
+virus
+visa
+visible
+vision
+visit
+visitor
+voice
+volume
+vomit
+vote
 wage
-wage (noun)
 waist
-wait (verb)
+wait
 waiter
-waiting room
+waiting
 waitress
-waive (verb)
-wake (verb)
-walk (noun, verb)
-wall (noun)
-wallet (noun)
-wander (verb)
-want (verb)
-war (noun)
-warm (adjective, verb)
-warm front
-warmth (noun)
-warn (verb)
-warning (noun)
-wash (noun, verb)
+waive
+wake
+walk
+wall
+wallet
+wander
+want
+war
+warm
+warmth
+warn
+warning
+wash
 waste
-waste (adjective, noun, verb)
-watch (noun, verb)
-water (noun)
-wave (noun, verb)
-wax (noun)
-way (noun)
-we (pronoun)
-weak (adjective)
-yard (noun)
-yawn (noun, verb)
-yeah (adverb)
+watch
+water
+wave
+wax
+way
+we
+weak
+weakness
+wealth
+weapon
+wear
+weather
+weave
+web
+web+site
+wedding
+wednesday
+weed
+week
+weekend
+weekly
+weigh
+weight
+weird
+welcome
+welfare
+well
+well-being
+west
+western
+wet
+wetland
+what
+whatever
+wheat
+wheel
+when
+where
+wherever
+whether
+which
+while
+whisper
+whistle
+white
+who
+whole
+whom
+whose
+why
+wide
+widely
+widespread
+width
+wife
+wild
+wildlife
+will
+willing
+win
+wind
+windchill
+windmill
+window
+windy
+wine
+wing
+winner
+winter
+wipe
+wire
+wisdom
+wise
+wish
+with
+withdraw
+within
+without
+witness
+witty
+wolf
+woman
+wonder
+wonderful
+wood
+wooden
+wool
+word
+work
+worker
+workout
+work–study
+world
+worldwide
+worry
+worse
+worship
+worst
+worth
+worthy
+would
+wound
+wrap
+wrath
+wreck
+wrinkle
+wrist
+write
+writer
+writing
+wrong
+yard
+yawn
+yeah
 year
 yearly
-yell (verb)
-yellow (adjective, noun)
-yes (adverb)
+yell
+yellow
+yes
 yesterday
 yet
-you (pronoun)
-young (adjective)
-your (adjective)
-yours (pronoun)
-yourself (pronoun)
-youth (noun)
-zealot (noun)
-zenith (noun)
-zero (noun)
-zipper (noun)
-zone (noun)
-zoo (noun)
+you
+young
+your
+yours
+yourself
+youth
+zealot
+zenith
+zero
+zipper
+zone
+zoo
